@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">42427f010fe83200cd674f8ce1050e42</application>
+        <filter/>
+        <name>vcxes</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.vcx_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 01:27:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed8a58441b8870107cce8515ec4bcbef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vcxes</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_ed8a58441b8870107cce8515ec4bcbef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 01:27:48</sys_updated_on>
+        <table>x_58872_needit_vcx</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2d38a81cdb002f044c1ff70fbf9619a7</instance_id>
+        <instance_name>dev70847</instance_name>
+        <name>sys_ui_module_ed8a58441b8870107cce8515ec4bcbef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">42427f010fe83200cd674f8ce1050e42</application><filter/><name>vcxes</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.vcx_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-06 01:27:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ed8a58441b8870107cce8515ec4bcbef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>vcxes</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_ed8a58441b8870107cce8515ec4bcbef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-06 01:27:48</sys_updated_on><table>x_58872_needit_vcx</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1921857922</payload_hash>
+        <record_name>vcxes</record_name>
+        <reverted_from/>
+        <source>c6b3b4481bbf20107cce8515ec4bcbb0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 01:27:48</sys_created_on>
+        <sys_id>298a58441b8870107cce8515ec4bcbf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793f49c0710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 01:27:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>618a5844f2887010b0c1ca436eec06f2</update_guid>
+        <update_guid_history>618a5844f2887010b0c1ca436eec06f2:-1921857922</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 01:29:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>08112df4056b42c0a013d139ac17c100</sys_id>
+        <sys_metadata>ed8a58441b8870107cce8515ec4bcbef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vcxes</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_ed8a58441b8870107cce8515ec4bcbef</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_ed8a58441b8870107cce8515ec4bcbef">298a58441b8870107cce8515ec4bcbf2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 01:29:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
